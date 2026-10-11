@@ -1,0 +1,8 @@
+# Keep large source and generated datasets out of GitHub
+data/raw/
+data/processed/*.csv
+
+# Jupyter and Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
